@@ -41,7 +41,7 @@ public class CityController {
         //dao.update(city);
         //return dao.selectAll();
     	 System.out.println("Hello, AuthSnippets!");
-
+    	 System.out.println("update, AuthSnippets!");
     	    // Initialize Firebase
     	    try {
     	      // [START initialize]
